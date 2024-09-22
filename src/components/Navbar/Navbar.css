@@ -1,0 +1,22 @@
+.login-btn {
+  border: 1px rgb(112, 109, 109) solid;
+  font-size: 16px;
+  font-weight: 500;
+}
+.login-btn:hover {
+  border: 1px #39b75d solid;
+  color: #39b75d;
+}
+.signup-btn {
+  color: white;
+  background-color: #39b75d;
+  font-size: 16px;
+  font-weight: 500;
+}
+.signup-btn:hover {
+  background-color: #32a653;
+  color: white;
+}
+.top-navbar {
+  background-color: white;
+}

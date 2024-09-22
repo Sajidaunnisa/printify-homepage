@@ -1,0 +1,53 @@
+.heading {
+  font-size: 57px;
+  font-weight: 600;
+}
+.icon {
+  color: #39b75d;
+  font-weight: bold;
+}
+.list {
+  color: #485256;
+  font-weight: 500;
+  font-size: 16px;
+}
+.btn-1 {
+  background-color: #39b75d;
+  color: white;
+  border: none;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 3px;
+}
+.btn-2 {
+  border: 1.5px solid rgb(181, 178, 178);
+  color: rgb(65, 65, 65);
+  background-color: white;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 3px;
+}
+.tag-line {
+  color: #39b75d;
+  font-weight: 600;
+}
+.shirt-image {
+  border: 1px solid rgb(236, 233, 233);
+  border-radius: 15px;
+}
+.print-image {
+  right: 350px;
+  top: 225px;
+  width: 170px;
+  height: 210px;
+}
+.desgin-now-btn {
+  color: white;
+  background-color: #39b75d;
+  font-size: 16px;
+  font-weight: 500;
+}
+.desgin-now-btn:hover {
+  background-color: #32a653;
+  color: white;
+}

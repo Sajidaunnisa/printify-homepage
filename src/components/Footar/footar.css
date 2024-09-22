@@ -1,0 +1,32 @@
+.icons {
+  border-radius: 50%;
+  color: white;
+  background-color: #39b75d;
+  padding: 5px;
+}
+.icons2 {
+  color: #39b75d;
+  background-color: white;
+  padding: 5px;
+  border-radius: 50%;
+}
+.elements {
+  font-size: 14px;
+  color: rgb(76, 75, 75);
+}
+.elements:hover {
+  cursor: pointer;
+  color: #39b75d;
+}
+.footar {
+  background-color: rgb(244, 240, 240);
+}
+.footer-content {
+  font-size: 13px;
+  color: rgb(143, 141, 141);
+}
+
+.copy-right {
+  font-size: 13px;
+  color: black;
+}

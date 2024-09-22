@@ -1,0 +1,25 @@
+.card-heading {
+  color: #39b75d;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.work-container {
+  width: 18rem;
+  border: none;
+  background-color: transparent;
+}
+.work-img {
+  width: 160px;
+  height: 160px;
+}
+.services-container {
+  background-color: rgb(243, 240, 240);
+}
+.title {
+  font-weight: 600;
+}
+.text {
+  color: rgb(110, 110, 110);
+  font-size: 14px;
+}

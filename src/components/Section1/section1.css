@@ -1,0 +1,11 @@
+.feature-container {
+  width: 18rem;
+  border: none;
+}
+.img-feature {
+  width: 120px;
+  height: 120px;
+}
+.description {
+  color: #485256;
+}
